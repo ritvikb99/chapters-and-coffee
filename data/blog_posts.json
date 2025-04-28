@@ -253,5 +253,62 @@
           "bio": "Pranjal's sharp eye for detail and narrative style make him a standout voice in literary reviews."
         },
         "related_posts": [10, 11]
+      },
+      {
+        "id": 13,
+        "title": "A Court of Thorns and Roses",
+        "slug": "a-court-of-thorns-and-roses",
+        "excerpt": "A dark and thrilling retelling of Beauty and the Beast set in a brutal fae world, full of forbidden romance and breathtaking magic.",
+        "content": "<div class=\"prose max-w-none\"><h2>A Dark Fairytale of Love and War: Why ACOTAR Captivates Millions</h2><p class=\"lead\">If you’re searching for a fantasy world dripping with forbidden romance, brutal courts, and breathtaking magic, A Court of Thorns and Roses is your perfect escape. Sarah J. Maas crafts a thrilling retelling of Beauty and the Beast — but with a darker, sharper edge.</p><p>Feyre, the fiercely independent mortal huntress, is dragged into the fae realm after unknowingly killing a faerie. What follows is a slow-burn love story woven with danger, loyalty, and heartbreaking betrayal. Maas doesn’t just build a world; she builds emotions that cling to you long after the last page. ACOTAR is a must-read for fans who crave passion, peril, and powerful heroines.</p><h3>Reasons to Read:</h3><ul><li>Epic blend of fantasy, romance, and adventure</li><li>Strong character development — Feyre’s growth is incredible</li><li>World-building that pulls you deep into Prythian’s courts and politics</li><li>Enemies-to-lovers romance, magic, betrayal, and redemption all rolled into one!</li></ul><h3>Who Would Love It:</h3><ul><li>Fans of fantasy with a heavy romance focus</li><li>Readers who love slow-burn romances, strong female leads, and emotional journeys</li></ul><h3>Favourite Quote:</h3><blockquote>“Don’t feel bad for one moment about doing what brings you joy.” – A Court of Thorns and Roses</blockquote></div>",
+        "thumbnail_image": "/images/post-13.png",
+        "hero_image": "/images/post-13-hero.png",
+        "date": "April 25, 2025",
+        "reading_time": "4 min read",
+        "category": "Fantasy",
+        "featured": true,
+        "author": {
+          "name": "Riya Singh",
+          "image": "/images/author-riya.png",
+          "bio": "Riya blends humor and insight in her analyses, making every book review a treat."
+        },
+        "related_posts": [14, 15]
+      },
+      {
+        "id": 14,
+        "title": "Powerless",
+        "slug": "powerless",
+        "excerpt": "A raw and heart-pounding story of survival, forbidden attraction, and resilience in a brutal magical world.",
+        "content": "<div class=\"prose max-w-none\"><h2>When Strength Is Forbidden: Exploring Power and Powerlessness</h2><p class=\"lead\">In a world where magic equals survival, being powerless is a death sentence. Lauren Roberts’ Powerless introduces readers to Paedyn Gray, a \"Normal\" hiding her lack of powers in a brutal, elite society. When she’s forced into deadly trials meant for the gifted, her secret teeters on exposure.</p><p>What sets Powerless apart is its raw portrayal of survival, trust, and forbidden attraction. It’s a romance fueled by secrets, high-stakes betrayals, and unexpected alliances. Roberts beautifully blends heart-pounding action with slow-burning chemistry. Powerless isn’t just another fantasy romance — it’s a story about resilience when the world demands your downfall.</p><h3>Reasons to Read:</h3><ul><li>A small-town friends-to-lovers romance with emotional depth</li><li>Slow build-up with angst, loyalty, and longing</li><li>Realistic characters dealing with fear of failure, belonging, and healing</li></ul><h3>Who Would Love It:</h3><ul><li>Readers who enjoy cowboy romance, childhood friends falling in love, and gentle, heartfelt storytelling</li><li>Fans of authors like Devney Perry or Lucy Score</li></ul><h3>Favourite Quote:</h3><blockquote>“Sometimes home isn’t a place. Sometimes it’s a person.” – Powerless</blockquote></div>",
+        "thumbnail_image": "/images/post-14.png",
+        "hero_image": "/images/post-14-hero.png",
+        "date": "April 23, 2025",
+        "reading_time": "4 min read",
+        "category": "Fantasy",
+        "featured": false,
+        "author": {
+          "name": "Vaishnavi Chauhan",
+          "image": "/images/author-vaishnavi.png",
+          "bio": "Vaishnavi curates thoughtful book reviews and engaging literary discussions."
+        },
+        "related_posts": [13, 15]
+      },
+      {
+        "id": 15,
+        "title": "Shatter Me",
+        "slug": "shatter-me",
+        "excerpt": "A gripping dystopian fantasy of isolation, rebellion, and passionate love told through beautiful, poetic prose.",
+        "content": "<div class=\"prose max-w-none\"><h2>The Power of a Single Touch: Why Shatter Me Still Resonates</h2><p class=\"lead\">Juliette’s touch is lethal — and it has turned her into a prisoner of fear, both by others and within herself. Shatter Me by Tahereh Mafi is a gripping dystopian fantasy about reclaiming power, battling isolation, and finding unexpected love.</p><p>Mafi’s prose is almost poetic, with strikethroughs and raw emotions bleeding from every page. What begins as a story of survival grows into a saga of rebellion, identity, and passionate, transformative love. Juliette’s journey from broken girl to powerful heroine is deeply inspiring. For readers who love tortured characters, enemies-to-lovers dynamics, and heart-wrenching writing, Shatter Me is unforgettable.</p><h3>Reasons to Read:</h3><ul><li>Unique poetic writing style (struck-through thoughts, emotional prose)</li><li>A gripping dystopian world with found family, redemption arcs, and romance</li><li>Juliette’s transformation from fragile to fierce is inspiring</li></ul><h3>Who Would Love It:</h3><ul><li>Fans of YA dystopian fiction like The Hunger Games and Divergent</li><li>Readers who enjoy emotional, character-driven stories with romantic tension and internal battles</li></ul><h3>Favourite Quote:</h3><blockquote>“I am enough, and I always will be.” – Shatter Me</blockquote></div>",
+        "thumbnail_image": "/images/post-15.png",
+        "hero_image": "/images/post-15-hero.png",
+        "date": "April 25, 2025",
+        "reading_time": "4 min read",
+        "category": "Fantasy",
+        "featured": true,
+        "author": {
+          "name": "Anjali Sharma",
+          "image": "/images/author-anjali.png",
+          "bio": "With a passion for storytelling, Anjali highlights the heart and soul of every book she reviews."
+        },
+        "related_posts": [13, 14]
       }
 ]
