@@ -27,7 +27,7 @@ const team = [
     name: "Vaishnavi Chauhan",
     role: "Founder & Editor",
     image: "/images/author-vaishnavi.png",
-    bio: "Book lover, coffee enthusiast, and advocate for slow living. Vaishnabi founded Chapters & Coffee in 2025 to create a space where readers could explore the connection between literature and coffee culture.",
+    bio: "Book lover, coffee enthusiast, and advocate for slow living. Vaishnavi founded Chapters & Coffee in 2025 to create a space where readers could explore the connection between literature and coffee culture.",
   },
   {
     name: "Pranjal Sharma",
