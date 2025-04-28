@@ -1,0 +1,257 @@
+[
+    {
+        "id": 1,
+        "title": "Pride and Prejudice",
+        "slug": "pride-and-prejudice",
+        "excerpt": "When picturing the ultimate romantic comedy, one ought to think of Jane Austen's Pride and Prejudice. First published in 1813, it was the original ene...",
+        "content": "<h2><strong> The Original Rom-Com Classic</strong></h2>\n<p>When picturing the ultimate romantic comedy, one ought to think of Jane Austen's Pride and Prejudice. First published in 1813, it was the original enemies-to-lovers tale that continues to inspire a plethora of books, movies, and even Netflix series to this day.</p><p>The short description? Clever, witty Elizabeth Bennet versus the proud yet secretly tender-hearted Mr. Darcy. Their sparkling repartee, comical misunderstandings, and undeniable chemistry have established a blueprint for every rom-com trope we cherish today \u2014 unintentional clashes, awkward declarations, and of course, a heart-melting emotional payoff just in time for the final chapter. </p><p>What solidifies Pride and Prejudice as an ageless masterpiece is not solely the simmering romance but also the sharp, often hilarious social commentary woven seamlessly throughout the narrative. Austen skillfully lampoons the rigid expectations surrounding marriage, lampoons the ambitious social climbers with questionable manners, and turns the idea of \"finding love against all odds\" into a deliciously ironic sport.Over two centuries later, Austen\u2019s wit remains as fresh as a new coat of paint \u2014 incisive, relatable, and impossibly swoon-worthy. </p><p> Each re-read uncovers layers that feel surprisingly modern: the judgment of appearances, the follies of pride, and the relentless pursuit of happiness despite societal pressures.</p><p>If you delight in clever dialogue, slow-burn romances that crackle beneath the surface, and an unflinching eye toward human nature, Pride and Prejudice deserves a cherished place on your reading list.</p><h3><strong>Perfect for:</strong> Lovers of quick-witted diatribes, slow-burning romances, and cagey social satire.</h3>",
+        "thumbnail_image": "/images/post-1.png",
+        "hero_image": "/images/post-1-hero.png",
+        "date": "April 22, 2025",
+        "reading_time": "3 min read",
+        "category": "Rom-Com",
+        "featured": false,
+        "author": {
+            "name": "Vaishnavi Chauhan",
+            "image": "/images/author-vaishnavi.png",
+            "bio": "Vaishnavi curates thoughtful book reviews and engaging literary discussions."
+        },
+        "related_posts": [
+            2,
+            3
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Bridget Jones's Diary",
+        "slug": "bridget-joness-diary",
+        "excerpt": "If you have ever maintained a chronically chaotic diary or have ever made a list of New Year resolutions too outrageous even for your own good you hav...",
+        "content": "<p class=\"lead\">If you have ever maintained a chronically chaotic diary or have ever made a list of New Year resolutions too outrageous even for your own good you have an excuse to thank Bridget Jones a little. Bridget Jones\u2019s Diary penned by Helen Fielding in 1996 tells a wonderfully messy, uproarious, and relatable tale of the rather thirty-something protagonist trying to sort out her love life, career, and calorie count.</p><p>Inspired by none other than \"Pride and Prejudice,\" Bridget finds herself embroiled in a triangle between the charming jerk Daniel Cleaver and the polite-but-awkward Mark Darcy. (Yes, her Darcy even wore a reindeer jumper.)</p><p>The book kicked off an entire genre of \"chick-lit\" and culminated in a slew of movie hits with Ren\u00e9e Zellweger in the leading role. It is laugh-out-loud funny yet sorely touching, love will see you through even the jumbled days filled with delicious victuals, dubious activities, and a lot of wine.</p><p>Best so that everyone who has ever felt a little lost, a little awkward, and entirely deserving of a great love story can enjoy and relish it.</p>",
+        "thumbnail_image": "/images/post-2.png",
+        "hero_image": "/images/post-2-hero.png",
+        "date": "April 14, 2025",
+        "reading_time": "3 min read",
+        "category": "Rom-Com",
+        "featured": false,
+        "author": {
+            "name": "Pranjal Sharma",
+            "image": "/images/author-pranjal.png",
+            "bio": "Pranjal's sharp eye for detail and narrative style make him a standout voice in literary reviews."
+        },
+        "related_posts": [
+            1,
+            3
+        ]
+    },
+    {
+        "id": 3,
+        "title": "The Rosie Project",
+        "slug": "the-rosie-project",
+        "excerpt": "Okay, imagine that at some point Sheldon Cooper from The Big Bang Theory decided it was time to find a wife. That would be the setup for Graeme Simsio...",
+        "content": "<p class=\"lead\">Okay, imagine that at some point Sheldon Cooper from The Big Bang Theory decided it was time to find a wife. That would be the setup for Graeme Simsion's The Rosie Project. Published in 2013, it is one of the recent years' quirkiest, lovable rom-com novels.</p><p>Our hero, Don Tillman is a brilliant genetics professor with zero social skills. He devises The Wife Project: an extremely detailed, scientific survey to find the perfect partner. Naturally, things don't go as planned, especially when Rosie a chaotic, free-spirited bartender, comes along and fails all of his ideal wife tests.</p><p>It is pure joy to watch Don's painstakingly ordered life come undone (in the best way possible). A sweet reminder that love doesn't follow a checklist, and sometimes, the right person is the one who breaks all your rules. </p> <p><strong>Ideal for Anyone Who:</strong> Loves nerdy heroes, stories of opposites attracting, and heartwarming humor.</p>",
+        "thumbnail_image": "/images/post-3.png",
+        "hero_image": "/images/post-3-hero.png",
+        "date": "April 20, 2025",
+        "reading_time": "3 min read",
+        "category": "Rom-Com",
+        "featured": true,
+        "author": {
+            "name": "Riya Singh",
+            "image": "/images/author-riya.png",
+            "bio": "Riya blends humor and insight in her analyses, making every book review a treat."
+        },
+        "related_posts": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Atomic Habits",
+        "slug": "atomic-habits",
+        "excerpt": "Atomic Habits is an excellent self-help book for all those who have struggled with making good habits or breaking bad ones. In this book, psychologist...",
+        "content": "<p class=\"lead\">Atomic Habits is an excellent self-help book for all those who have struggled with making good habits or breaking bad ones.</p><p> In this book, psychologist James Clear explains everything from the scientific theories into clear, specific, and actionable practical steps for your daily life. Then he adds that it isn't massive drastic changes for whatever that makes a difference, but little habits very gradually repeated through time.</p><p><strong>Reasons it should be read:</strong>\n\n<ul><li>Clear strategies for the habit-forming-and-bad-breaking aspects</li><li>Real-life examples often done through teachings in theory in books</li><li>Buy-now practical hints that will help you start right away</li></ul> <p><strong>Best Quote:</strong>  <blockquote>You do not rise to the level of your goals. You fall to the level of your systems.</blockquote></p>",
+        "thumbnail_image": "/images/post-4.png",
+        "hero_image": "/images/post-4-hero.png",
+        "date": "April 17, 2025",
+        "reading_time": "3 min read",
+        "category": "Self Help",
+        "featured": false,
+        "author": {
+            "name": "Vaishnavi Chauhan",
+            "image": "/images/author-vaishnavi.png",
+            "bio": "Vaishnavi curates thoughtful book reviews and engaging literary discussions."
+        },
+        "related_posts": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 5,
+        "title": "The Alchemist",
+        "slug": "the-alchemist",
+        "excerpt": "\"The Alchemist\" is in contrast to traditional self-help books that inspire or mock activity. A journey symbolic and beautiful where one longs for drea...",
+        "content": "<p class=\"lead\">\"The Alchemist\" is in contrast to traditional self-help books that inspire or mock activity. A journey symbolic and beautiful where one longs for dreams and listens to the heart will have to take into the best novel ever written to say: <blockquote>\"I am going to follow my dream\"</blockquote> </p><p> Santiago, a shepherd boy, starts a journey towards worldly treasure but realizes that it was always a personal treasure instead. Coelho shares life lessons so seamlessly that by the end-of the book, the readers become often oblivious of the great wealth of experience and teachings that they have received.</p><p><h3>Reasons it should be read:</h3><ul><li>Emergency inspiration for you to take a shot at your personal legend (true calling)</li><li>Soft reminder: the universe is conspiring on your side whenever you truly want something</li></ul><p>Timeless quotes that stick with you forever: <blockquote> \"When you want something, all the universe conspires in helping you to achieve it.\"</blockquote></p>",
+        "thumbnail_image": "/images/post-5.png",
+        "hero_image": "/images/post-5-hero.png",
+        "date": "April 25, 2025",
+        "reading_time": "3 min read",
+        "category": "Self Help",
+        "featured": false,
+        "author": {
+            "name": "Nandini Agarwal",
+            "image": "/images/author-nandini.png",
+            "bio": "Avid reader and literary critic, Nandini enjoys exploring deep narratives and compelling characters."
+        },
+        "related_posts": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 6,
+        "title": "The 7 Habits of Highly Effective People",
+        "slug": "the-7-habits-of-highly-effective-people",
+        "excerpt": "First published in 1989, this remains one of the greatest books ever written in the self-help category. Covey prepares a principled-centered approach...",
+        "content": "<p class=\"lead\">First published in 1989, this remains one of the greatest books ever written in the self-help category. Covey prepares a principled-centered approach to solving all personal and professional problems. </p><p>This \"inside-out\" approach of his says that first change should be in you in order to affect the surrounding world, or in other words, self-mastery comes before any attempt to impact what around you.</p><h3>Reasons it should be read:</h3><ul><li> An effective framework for personal and leadership development</li><li>Deals more with character ethics than with personality strategies</li><li>Among other things, it teaches you how to live with integrity for the long haul</li></ul>\n\n<h3>Best Quote:</h3> <blockquote>\"The key is not to prioritize what's on your schedule but to schedule your priorities.\"</blockquote>",
+        "thumbnail_image": "/images/post-6.png",
+        "hero_image": "/images/post-6-hero.png",
+        "date": "April 19, 2025",
+        "reading_time": "3 min read",
+        "category": "Self Help",
+        "featured": true,
+        "author": {
+            "name": "Riya Singh",
+            "image": "/images/author-riya.png",
+            "bio": "Riya blends humor and insight in her analyses, making every book review a treat."
+        },
+        "related_posts": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 7,
+        "title": "To Kill a Mockingbird",
+        "slug": "to-kill-a-mockingbird",
+        "excerpt": "Why To Kill a Mockingbird Remains Relevant Today\nFew books successfully intertwine childhood innocence, brutal realities of society, and unbreakable o...",
+        "content": "<h2>Why To Kill a Mockingbird Remains Relevant Today</h2><p>Few books successfully intertwine childhood innocence, brutal realities of society, and unbreakable optimism as elegantly as Harper Lee has done in To Kill a Mockingbird. Published in 1960, this masterpiece has survived many generations \u2014 and with good cause.</p><p>Based in the racially charged climate of the Deep South of the 1930s, the novel follows young Scout Finch as she comes to terms with a world dominated by prejudice, injustice, and moral ambiguity. Through the eyes of Scout, readers witness the devastating trial of Tom Robinson, a Black man falsely accused of rape, and bear witness to the quiet heroism of Atticus Finch, a father and lawyer who fights for what is right, whatever the cost.What's so incredible about To Kill a Mockingbird is how it manages to turn large themes \u2014 justice, compassion, and moral development \u2014 into intimate, personal experiences. Lee's writing appears effortless but has a lasting impact that makes the book one of those you end up carrying with you long after you finish reading.If you\u2019re looking for a novel that feels like both a lesson and a hug, To Kill a Mockingbird should be at the top of your list.</p>",
+        "thumbnail_image": "/images/post-7.png",
+        "hero_image": "/images/post-7-hero.png",
+        "date": "April 26, 2025",
+        "reading_time": "3 min read",
+        "category": "Classics",
+        "featured": false,
+        "author": {
+            "name": "Anjali Sharma",
+            "image": "/images/author-anjali.png",
+            "bio": "With a passion for storytelling, Anjali highlights the heart and soul of every book she reviews."
+        },
+        "related_posts": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 8,
+        "title": "1984",
+        "slug": "1984",
+        "excerpt": "Is 1984 Still Our Future? A Look at Orwell's Dark Genius\nGeorge Orwell's 1984 is not only a book \u2014 it's a warning that remains chilling decades after...",
+        "content": "<h2>Is 1984 Still Our Future? A Look at Orwell's Dark Genius</h2><p>George Orwell's 1984 is not only a book \u2014 it's a warning that remains chilling decades after it was published. Orwell wrote 1984 in 1949, and his depiction of a dictatorial government that track, controls, and manipulates every detail of human existence resonates ominously today in our own digital era.</p><p>Winston Smith, our unwilling hero, toils for the Ministry of Truth, where falsifying history is part of his everyday job. But as Winston's scepticism of the Party's grip tightens, so does his perilous search for truth and liberty. Orwell's vision brought us terms such as \"Big Brother,\" \"Thoughtcrime,\" and \"doublethink\" \u2014 concepts that have permeated popular discourse regarding surveillance, liberty, and privacy.</p><p>Reading 1984 now is like holding a mirror to the contemporary world. From state intrusion to media manipulation, Orwell's warnings sound louder than ever.</p><p>If you've ever found yourself wondering who's watching \u2014 or if truth still exists \u2014 1984 is the book you should read (or re-read).</p>",
+        "thumbnail_image": "/images/post-8.png",
+        "hero_image": "/images/post-8-hero.png",
+        "date": "April 24, 2025",
+        "reading_time": "3 min read",
+        "category": "Classics",
+        "featured": false,
+        "author": {
+            "name": "Vaishnavi Chauhan",
+            "image": "/images/author-vaishnavi.png",
+            "bio": "Vaishnavi curates thoughtful book reviews and engaging literary discussions."
+        },
+        "related_posts": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 9,
+        "title": "The Great Gatsby",
+        "slug": "the-great-gatsby",
+        "excerpt": "Why We Can't Stop Chasing the Great Gatsby\nAh, The Great Gatsby \u2014 the glitter, the glamour, the heartbreak. F. Scott Fitzgerald's 1925 classic capture...",
+        "content": "<h2>Why We Can't Stop Chasing the Great Gatsby</h2><p>Ah, The Great Gatsby \u2014 the glitter, the glamour, the heartbreak. F. Scott Fitzgerald's 1925 classic captures the Jazz Age in all its intoxicating excess while revealing the empty underbelly of the American Dream.</p><p>At the centre is Jay Gatsby, the enigmatic millionaire with an improper past and a heart achingly committed to a dream that never can come to be. Through the external perspective of the narrator Nick Carraway, we observe Gatsby's universe of extravagant parties, glistening fantasies, and inescapable devastation unfold.What keeps The Great Gatsby so eternally captivating is its exploration of ambition, love, and illusion. Gatsby's yearning for Daisy, and for a life that never truly was, is something we can all relate to. We all pursue dreams, don't we? Sometimes they're lovely. Sometimes they kill us.Whether you visit for the glitzy parties or linger for the painful humanity below the surface, The Great Gatsby is an unforgettable plunge into the hopes and heartbreaks that make us all.</p>",
+        "thumbnail_image": "/images/post-9.png",
+        "hero_image": "/images/post-9-hero.png",
+        "date": "April 25, 2025",
+        "reading_time": "3 min read",
+        "category": "Classics",
+        "featured": true,
+        "author": {
+            "name": "Nandini Agarwal",
+            "image": "/images/author-nandini.png",
+            "bio": "Avid reader and literary critic, Nandini enjoys exploring deep narratives and compelling characters."
+        },
+        "related_posts": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 10,
+        "title": "The Girl With the Dragon Tattoo",
+        "slug": "the-girl-with-the-dragon-tattoo",
+        "excerpt": "An international bestseller that weaves murder, love, and financial intrigue into an unforgettable thriller featuring the iconic Lisbeth Salander.",
+        "content": "<div class=\"prose max-w-none\"><p class=\"lead\">An international bestseller that is a thrilling tale of murder, love, and financial intrigue. The story focuses on the journalist Mikael Blomkvist and hacker Lisbeth Salander as they unearth decades-old information on the disappearance of the niece of a wealthy industrialist. What they find is something much darker than they ever expected.</p><h2>Reasons for reading the book:</h2><ul><li>One of the most iconic characters in the thriller genre, Lisbeth Salander.</li><li>A complex, multilayered plot lining together crime, corruption, and secrets.</li><li>Very intelligent, fast narrative that totally immerses you into it.</li></ul><blockquote>\"Friendship- my definition- is built on two things. Respect and trust.\"</blockquote></div>",
+        "thumbnail_image": "/images/post-10.png",
+        "hero_image": "/images/post-10-hero.png",
+        "date": "March 22, 2025",
+        "reading_time": "4 min read",
+        "category": "Thriller",
+        "featured": true,
+        "author": {
+          "name": "Anjali Sharma",
+          "image": "/images/author-anjali.png",
+          "bio": "With a passion for storytelling, Anjali highlights the heart and soul of every book she reviews."
+        },
+        "related_posts": [11, 12]
+      },
+      {
+        "id": 11,
+        "title": "Gone Girl",
+        "slug": "gone-girl",
+        "excerpt": "Gone Girl redefined psychological thrillers with its story of deception, manipulation, and twisted love that keeps readers guessing.",
+        "content": "<div class=\"prose max-w-none\"><p class=\"lead\">Gillian Flynn changed the course of modern psychological thriller with Gone Girl. On her fifth wedding anniversary, Amy Dunne disappears; suspicion immediately falls upon her husband, Nick. Yet as the layers of deception unravel, nothing is what it seems. A chilling portrayal of a marriage pathologically wrong.</p><h2>Reasons for reading the book:</h2><ul><li>Unreliable narrators that keep you second-guessing.</li><li>Twists you won't see coming.</li><li>A dark, disturbing take on relationships and manipulation.</li></ul><blockquote>\"Love makes you want to be a better man. But maybe love, real love, also gives you permission to just be the man you are.\"</blockquote></div>",
+        "thumbnail_image": "/images/post-11.png",
+        "hero_image": "/images/post-11-hero.png",
+        "date": "April 27, 2025",
+        "reading_time": "4 min read",
+        "category": "Thriller",
+        "featured": false,
+        "author": {
+          "name": "Vaishnavi Chauhan",
+          "image": "/images/author-vaishnavi.png",
+          "bio": "Vaishnavi curates thoughtful book reviews and engaging literary discussions."
+        },
+        "related_posts": [10, 12]
+      },
+      {
+        "id": 12,
+        "title": "The Silent Patient",
+        "slug": "the-silent-patient",
+        "excerpt": "The Silent Patient delivers a haunting psychological mystery where silence hides the deepest truths, culminating in a breathtaking ending.",
+        "content": "<div class=\"prose max-w-none\"><p class=\"lead\">Instant bestseller status for such a rich psychological thriller - deservedly so: Alicia Berenson, a famous painter, shoots her husband in the face and never speaks another word. Theo Faber, a forensic psychotherapist, wants to make her speak and find out what happened. The truth that he uncovers will leave you breathless.</p><h2>Reasons for reading the book:</h2><ul><li>Brilliant psychological twists and layers of mystery.</li><li>Creppy, gothic tone that keeps you on your toes.</li><li>Ending that will leave you gasping.</li></ul><blockquote>\"We are made up of all those who have ever loved us.\"</blockquote></div>",
+        "thumbnail_image": "/images/post-12.png",
+        "hero_image": "/images/post-12-hero.png",
+        "date": "April 27, 2025",
+        "reading_time": "4 min read",
+        "category": "Thriller",
+        "featured": true,
+        "author": {
+          "name": "Pranjal Sharma",
+          "image": "/images/author-pranjal.png",
+          "bio": "Pranjal's sharp eye for detail and narrative style make him a standout voice in literary reviews."
+        },
+        "related_posts": [10, 11]
+      }
+]
