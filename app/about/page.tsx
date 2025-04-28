@@ -166,7 +166,7 @@ export default function AboutPage() {
                   <FiMail className="h-6 w-6 text-stone-800" />
                 </div>
                 <h3 className="text-lg font-semibold text-stone-900 mb-2">Email Us</h3>
-                <p className="text-stone-600">vaishnavichauhan0011@gmail.com</p>
+                <p className="text-stone-600 break-words overflow-hidden">vaishnavichauhan0011@gmail.com</p>
               </div>
 
               <div className="bg-white p-6 rounded-lg shadow-sm">
